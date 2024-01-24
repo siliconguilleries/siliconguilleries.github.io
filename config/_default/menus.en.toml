@@ -1,0 +1,21 @@
+[[main]]
+name = 'Home'
+pageRef = '/'
+weight = 1
+[[main]]
+Name = 'Code of conduct'
+pageRef = '/code-conduct'
+weight = 5
+[[main]]
+Name = 'Events organization'
+pageRef = '/organization-events'
+weight = 10
+[[main]]
+Name = 'Propose'
+pageRef = ''
+weight = 15
+[[main]]
+Name = 'Talk'
+pageRef = '/talk-proposal'
+weight = 1
+parent = 'Propose'

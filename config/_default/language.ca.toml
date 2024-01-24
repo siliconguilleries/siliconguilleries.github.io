@@ -1,0 +1,57 @@
+languageCode = 'ca'
+languageDirection = 'ltr'
+languageName = 'Català'
+title = 'Silicon Guilleries'
+weight = 1
+
+[params]
+fancyTitle = 'Silicon Guilleries'
+description = 'La comunitat tecnològica de les Guilleries'
+
+[params.one]
+enable = true
+body = '''
+Silicon Guilleries té l'objectiu de ser una comunitat tecnològica creada a Sant Hilari Sacalm que
+persegueix el foment de agrupar persones interessades en tecnologia de la zona de les Guilleries.
+
+Ostres, la tecnologia està gairebé present a tot arreu avui en dia! Cert, però malgrat això, estem
+en una area, que fins ara, no hi ha cap comunitat tècnica activa, i les que existeixen, estan
+principalment  en la provincia (Girona). Per tant, el que volem es tenir una comunitat i centrar-nos
+en una camp specific (e.g. desenvolupament web), llenguatge de programació (e.g. Python), o
+"framework" (e.g. Ruby on Rails), ens dirigiria a fragmentar el grup de gent que està interessada
+creant una comunitat molt poc activa, o inclús pitjor, no crear-ne cap.
+
+Per tant, volem animar a tothom interessat en algun camp de la tecnologia, per exemple l'enginyeria
+de "software", un llenguage de programació, un "framework", DevOps, IoT, SCADA, etc, que s'uneixi.
+'''
+
+[params.three]
+enable = true
+title = "El nostre objectiu"
+body = '''
+Volem unir la gent d'aquesta area geogràfica amb un interés general o specífic de la tecnologia per
+organitzar xerrades, trovades i esdeveniments (p. ex. hackathons).
+
+Per logar-ho, necessitem que la gent
+'''
+[[params.three.feature]]
+icon = 'fa-user'
+body ='''
+Es registri a la nostra comunitat amb la finalitat d'atendre a les activitats proposades quan siguin
+del seu interés
+'''
+[[params.three.feature]]
+icon = 'fa-lightbulb'
+body ='''
+Faci propostes, com xerrades sobre algún tema que sigui del seu interés, idees de esdeveniments que
+poden interessar a una part de la comunitat i els agradaría organitzar amb nosaltres
+'''
+
+[params.cta]
+enable = true
+title = "A que esperes?"
+body = ""
+[[params.cta.link]]
+href = "sign-up-member"
+text = "Registrat"
+special = true

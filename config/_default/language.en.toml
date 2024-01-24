@@ -1,0 +1,54 @@
+languageCode = 'en'
+languageDirection = 'ltr'
+languageName = 'English'
+title = 'Silicon Guilleries'
+weight = 10
+
+[params]
+fancyTitle = 'Silicon Guilleries'
+description = 'The Guilleries tech comunity'
+
+[params.one]
+enable = true
+body = '''
+Silicon Guilleries aims to be a technological community born in Sant Hilari Sacalm which pursues to
+foster gathering people interested in technology in the Guilleries area.
+
+Yeah, technology is almost everything today! Suer thing, however, we are in an area that, so far,
+there isn't any active specific technical community, and the ones that exist are mostly concentrate
+in the province (Girona). Hence, we want first to have a community and narrowing it to some specific
+field (e.g. web development), programming language (e.g. Python), or framework (e.g. Ruby on Rails),
+would lead to fragment the people who are interested and create a very unactive community or, even
+worse, no community.
+
+So we want to encourage everybody interested in some technology topic, for example software
+engineering, a programming language, a framework, DevOps, IoT, SCADA, etc., to join.
+'''
+
+[params.three]
+enable = true
+title = "Our goal"
+body = '''
+To Gather people of the area with general or specific technological interests to organize
+talks, meetups, and events (e.g. hackathons).
+
+To achieve it, we need that people
+'''
+[[params.three.feature]]
+icon = 'fa-user'
+body ='Join our community and be willing to attend our proposed activities when they are interested'
+[[params.three.feature]]
+icon = 'fa-lightbulb'
+body ='''
+Propose topics that they would like to talk about, or ideas of events that may be of the interests
+of part of community and they would like to organize with us
+'''
+
+[params.cta]
+enable = true
+title = "What are you waiting for?"
+body = ""
+[[params.cta.link]]
+href = "sign-up-member"
+text = "Sign up"
+special = true

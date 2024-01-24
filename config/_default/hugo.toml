@@ -1,0 +1,36 @@
+baseURL = 'https://siliconguilleries.com'
+theme = 'spectral'
+copyright = 'This works is license under a Creative Commons Attribution-ShareAlike 4.0 International license'
+title = 'Silicon Guilleries'
+
+# Content
+paginate = 10
+builddrafts = false
+
+# Languages
+defaultContentLanguage = 'ca'
+defaultContentLanguageInSubdir = false
+
+# Menus
+sectionPagesMenu = 'main'
+
+# Parameters
+[params]
+body_is_markdown = true
+# copyright = ''
+# startbuttonText = ''
+# startbuttonLink = ''
+# custom_css = 'foo.css'
+
+[params.social]
+github = 'siliconguilleries'
+twitter = 'siguilleries'
+# instagram = ''
+# youtube = ''
+# mastodon = ''
+# facebook = ''
+# dribble = ''
+
+[taxonomies]
+tag = 'tags'
+category = 'categories'

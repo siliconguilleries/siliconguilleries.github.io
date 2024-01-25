@@ -5,7 +5,9 @@ description = "Proposa'ns una xerrada a la nostra comunitat"
 category = 'Talks'
 +++
 
-Sis plau omple el següent formulari i et contactarem lo més aviat possible per començar a organitzar el esdeveniment on presentaras la teva xerrada. Pots saber més de com organitzem els nostres esdeveniments [aquí]({{< ref "organization-events" >}}).
+Sis plau, omple el següent formulari i et contactarem com més aviat millor per començar a organitzar
+l'esdeveniment on presentaràs la teva xerrada. Pots saber més de com organitzem els nostres
+esdeveniments [aquí]({{< ref "organization-events" >}}).
 
 Moltes gràcies per la teva proposta.
 

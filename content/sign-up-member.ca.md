@@ -11,4 +11,4 @@ comunitat sense cap obligació par ambdues parts.
 
 Només contactarem amb tu quan programem nou esdeveniments i activitats.
 
-{{< google-form src="https://docs.google.com/forms/d/e/1FAIpQLSdiJ3dQmL-Ei_ufi86a2PYUyCjCjear6w0Ry1i3zSlwvgFXNw/viewform?embedded=true" width="800" height="1500" >}}
+{{< google-form src="https://docs.google.com/forms/d/e/1FAIpQLSdiJ3dQmL-Ei_ufi86a2PYUyCjCjear6w0Ry1i3zSlwvgFXNw/viewform?embedded=true" width="95%" height="1470px" >}}

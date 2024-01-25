@@ -19,3 +19,7 @@ Name = 'Talk'
 pageRef = '/talk-proposal'
 weight = 1
 parent = 'Propose'
+[[main]]
+Name = 'Sign up'
+pageRef = '/sign-up-member'
+weight = 100

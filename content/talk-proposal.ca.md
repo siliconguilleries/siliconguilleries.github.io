@@ -11,4 +11,4 @@ esdeveniments [aquí]({{< ref "organization-events" >}}).
 
 Moltes gràcies per la teva proposta.
 
-{{< google-form src="https://docs.google.com/forms/d/e/1FAIpQLSdChb6MCxFlA4lHf2vG1j6Zmf_X3xmzjAtK6MofadrvW0usfw/viewform?embedded=true" width="800" height="1800" >}}
+{{< google-form src="https://docs.google.com/forms/d/e/1FAIpQLSdChb6MCxFlA4lHf2vG1j6Zmf_X3xmzjAtK6MofadrvW0usfw/viewform?embedded=true" width="95%" height="1820px" >}}

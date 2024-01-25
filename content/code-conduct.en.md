@@ -45,4 +45,4 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 This policy extends to talks, forums, workshops, codelabs, social media, all attendees, partners, sponsors, volunteers, organizers, speakers, staff, etc. You catch our drift. We reserve the right to refuse admittance to, or remove any person from, any of the events that we organize at any time in its sole discretion. This includes, but is not limited to, attendees behaving in a disorderly manner or failing to comply with this policy, and the terms and conditions herein. If a participant engages in harassing or uncomfortable behavior, the organizers may take any action they deem appropriate, including warning or expelling the offender from the event with no refund or blocking the offender’s account from participating online.
 
-{{< google-form src="https://docs.google.com/forms/d/e/1FAIpQLScTyVZdOuQB2m9YYIpoV6DfloIkBg-Iibe8rGeTFGwdoix_Gg/viewform?embedded=true" width="800" height="1600" >}}
+{{< google-form src="https://docs.google.com/forms/d/e/1FAIpQLScTyVZdOuQB2m9YYIpoV6DfloIkBg-Iibe8rGeTFGwdoix_Gg/viewform?embedded=true" width="95%" height="1600px" >}}

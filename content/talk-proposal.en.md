@@ -10,4 +10,4 @@ You can know more about how we organize our events [here]({{< ref "organization-
 
 Thank you very much for your proposal.
 
-{{< google-form src="https://docs.google.com/forms/d/e/1FAIpQLSdDPyzOy9L_943hp21LP6IFnH6Wd29q-fm5m1M2egbCIZEt5A/viewform?embedded=true" width="800" height="1800" >}}
+{{< google-form src="https://docs.google.com/forms/d/e/1FAIpQLSdDPyzOy9L_943hp21LP6IFnH6Wd29q-fm5m1M2egbCIZEt5A/viewform?embedded=true" width="95%" height="1800px" >}}

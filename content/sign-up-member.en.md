@@ -11,4 +11,4 @@ Signing up is __free__ and manifest your legitimate interest in whit community w
 
 We only contact you when we schedule a new events and activities.
 
-{{< google-form src="https://docs.google.com/forms/d/e/1FAIpQLSf5C6ndJFtFD_7Y-0KPtcn21ID-OwJ4WXt6-brBOkndKFSO7A/viewform?embedded=true" width="800" height="1500" >}}
+{{< google-form src="https://docs.google.com/forms/d/e/1FAIpQLSf5C6ndJFtFD_7Y-0KPtcn21ID-OwJ4WXt6-brBOkndKFSO7A/viewform?embedded=true" width="95%" height="1470px" >}}

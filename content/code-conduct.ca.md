@@ -69,4 +69,4 @@ organitzadors poden prendre la decisió d'actuar de manera que ells creguin que 
 incloent-hi avisar o expulsar l’assetjador de l'esdeveniment sense dret al reemborsament o del
 bloqueig del seu compte quan es tracta d'una participació online.
 
-{{< google-form src="https://docs.google.com/forms/d/e/1FAIpQLSdR9fC-OdIlOjnBBpWbd7hRN3kXbtVtTvEWUzWYdxOoJ8NGPA/viewform?embedded=true" width="800" height="1600" >}}
+{{< google-form src="https://docs.google.com/forms/d/e/1FAIpQLSdR9fC-OdIlOjnBBpWbd7hRN3kXbtVtTvEWUzWYdxOoJ8NGPA/viewform?embedded=true" width="95%" height="1600px" >}}

@@ -6,45 +6,47 @@ weight = 1
 
 [params]
 fancyTitle = 'Silicon Guilleries'
-description = 'La comunitat tecnològica de les Guilleries'
+description = 'La comunitat tècnica de les Guilleries'
 
 [params.one]
 enable = true
 body = '''
-Silicon Guilleries té l'objectiu de ser una comunitat tecnològica creada a Sant Hilari Sacalm que
-persegueix el foment d'agrupar persones interessades en tecnologia de la zona de les Guilleries.
+Silicon Guilleries neix amb l'objectiu de ser la comunitat tècnica de les Guilleries on totes les 
+persones amb un interès en la tecnologia hi puguin participar. 
 
-Ostres, la tecnologia està gairebé present a tot arreu avui en dia! Cert, però malgrat això, estem
-en una àrea, que fins ara, no hi ha cap comunitat tècnica activa, i les que existeixen, estan
-principalment en la província (Girona). Per tant, el que volem es tenir una comunitat i centrar-nos
-en un camp específic (p. ex. desenvolupament web), llenguatge de programació (p. ex. Python), o
-"framework" (p. ex. Ruby on Rails), ens dirigiria a fragmentar el grup de gent que està interessada
-creant una comunitat molt poc activa, o inclús pitjor, no crear-ne cap.
+Avui en dia la tecnologia és gairebé present en tots els àmbits. Silicon Guilleries vol unir tot el
+col·lectiu que fa servir la tecnologia ja sigui, professionalment o per afició, per crear sistemes,
+automatitzar processos, millorar tasques quotidianes, etc.
 
-Per tant, volem animar a tothom interessat en algun camp de la tecnologia, per exemple l'enginyeria
-de "software", un llenguage de programació, un "framework", DevOps, IoT, SCADA, etc., que s'uneixi.
+L'organització de meetups tècnics, hackathons o esdeveniments de les temàtiques que ens proposeu,
+seran el punt de partida per construir les bases de Sillicon Guilleries. 
 '''
 
 [params.three]
 enable = true
-title = "El nostre objectiu"
+title = "Principal Objectiu"
 body = '''
-Volem unir la gent d'aquesta àrea geogràfica amb un interès general o específic de la tecnologia per
-organitzar xerrades, trobades i esdeveniments (p. ex. hackathons).
+Unir la gent d'aquesta àrea geogràfica amb un interès general o específic en la tecnologia per
+organitzar xerrades, trobades i esdeveniments (p. ex. hackathons), per tal de poder millorar els 
+nostres habilitats i aprendre tots plegats.
 
-Per aconseguir-ho, necessitem que la gent:
+
+Per aconseguir-ho, necessitem que:
 '''
 [[params.three.feature]]
 icon = 'fa-user'
 body ='''
-Es registri a la nostra comunitat amb la finalitat d'atendre a les activitats proposades quan siguin
-del seu interès
+Et registris per saber que formes part d'aquest col·lectiu
+'''
+[[params.three.feature]]
+icon = 'fa-user'
+body ='''
+Participis en aglunes (o totes!) les nostres activitats
 '''
 [[params.three.feature]]
 icon = 'fa-lightbulb'
 body ='''
-Faci propostes, com xerrades sobre algun tema que sigui del seu interès, idees d'esdeveniments que
-poden interessar a una part de la comunitat i els agradaria organitzar amb nosaltres
+Proposis xerrades, esdeveniments o activiats que pugin ser del nostre interés
 '''
 
 [params.cta]

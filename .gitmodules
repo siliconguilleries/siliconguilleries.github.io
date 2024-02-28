@@ -1,4 +1,4 @@
 [submodule "themes/spectral"]
 	path = themes/spectral
-	url = git@github.com:ifraixedes/sbruder-spectral.git
-	branch = if/all-my-non-merged-prs
+	url = git@github.com:siliconguilleries/sbruder-spectral.git
+	branch = silicon-guilleries

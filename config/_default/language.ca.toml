@@ -11,15 +11,15 @@ description = 'La comunitat tècnica de les Guilleries'
 [params.one]
 enable = true
 body = '''
-Silicon Guilleries neix amb l'objectiu de ser la comunitat tècnica de les Guilleries on totes les 
-persones amb un interès en la tecnologia hi puguin participar. 
+Silicon Guilleries neix amb l'objectiu de ser la comunitat tècnica de les Guilleries on totes les
+persones amb un interès en la tecnologia hi puguin participar.
 
 Avui en dia la tecnologia és gairebé present en tots els àmbits. Silicon Guilleries vol unir tot el
 col·lectiu que fa servir la tecnologia ja sigui, professionalment o per afició, per crear sistemes,
 automatitzar processos, millorar tasques quotidianes, etc.
 
 L'organització de meetups tècnics, hackathons o esdeveniments de les temàtiques que ens proposeu,
-seran el punt de partida per construir les bases de Sillicon Guilleries. 
+seran el punt de partida per construir les bases de Sillicon Guilleries.
 '''
 
 [params.three]
@@ -27,7 +27,7 @@ enable = true
 title = "Principal Objectiu"
 body = '''
 Unir la gent d'aquesta àrea geogràfica amb un interès general o específic en la tecnologia per
-organitzar xerrades, trobades i esdeveniments (p. ex. hackathons), per tal de poder millorar els 
+organitzar xerrades, trobades i esdeveniments (p. ex. hackathons), per tal de poder millorar els
 nostres habilitats i aprendre tots plegats.
 
 
@@ -52,8 +52,12 @@ Proposis xerrades, esdeveniments o activiats que pugin ser del nostre interés
 [params.cta]
 enable = true
 title = "A què esperes?"
-body = ""
+body = "Registrat com a membre i al uneix-te al nostre Discord"
 [[params.cta.link]]
 href = "sign-up-member"
 text = "Registrat"
 special = true
+[[params.cta.link]]
+href = "https://discord.gg/gsjVvHnXYd"
+text = "Discord"
+special = false

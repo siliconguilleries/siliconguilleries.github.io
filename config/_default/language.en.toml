@@ -14,7 +14,7 @@ body = '''
 Silicon Guilleries is born with the goal of being the tech community of the Guilleries, where
 everybody with some interest in technology participates somehow.
 
-Nowadays, technology is almost present everywhere. Silicon Guilleries aims to gather all the people 
+Nowadays, technology is almost present everywhere. Silicon Guilleries aims to gather all the people
 who use technology professionally or as a hobby to create systems, automate processes, improve
 certain daily tasks, etc.
 
@@ -41,8 +41,12 @@ body ='You propose talks, events, or activities that could be of our interests'
 [params.cta]
 enable = true
 title = "What are you waiting for?"
-body = ""
+body = "Sign up as a member and join to our Discord"
 [[params.cta.link]]
 href = "sign-up-member"
 text = "Sign up"
 special = true
+[[params.cta.link]]
+href = "https://discord.gg/gsjVvHnXYd"
+text = "Discord"
+special = false

@@ -1,6 +1,6 @@
 +++
 author = 'Ivan Fraixedes'
-title = 'Com organitzem events'
+title = 'Com organitzem esdeveniments'
 description = 'Aquest són els nostres procediments per organitzar esdeveniments'
 category = 'Organization'
 +++

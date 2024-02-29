@@ -1,32 +1,32 @@
-[menu]
-other = "Menú"
-
-[learnmore]
-other = "saber-ne més"
-
-[name]
-other = "nom"
-
-[email]
-other = "e-mail"
-
-[phone]
-other = "telèfon"
-
 [address]
 other = "adreça"
-
-[yourmessage]
-other = "el teu missatge"
-
-[send]
-other = "enviar"
-
-[reset]
-other = "restablir"
 
 [allarticles]
 other = "tots els articles"
 
+[email]
+other = "e-mail"
+
+[learnmore]
+other = "saber-ne més"
+
+[menu]
+other = "Menú"
+
+[name]
+other = "nom"
+
+[phone]
+other = "telèfon"
+
 [readmore]
 other = "LLegeix més…"
+
+[reset]
+other = "restablir"
+
+[send]
+other = "enviar"
+
+[yourmessage]
+other = "el teu missatge"

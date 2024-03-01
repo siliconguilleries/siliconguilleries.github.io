@@ -1,0 +1,13 @@
+#menu ul {
+  margin: 0;
+}
+
+.events-next-section .when-where {
+  display: flex;
+  column-gap: 1em;
+  font-weight: bold;
+}
+
+.events-next-section p {
+  margin: 0;
+}

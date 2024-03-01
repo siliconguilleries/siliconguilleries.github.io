@@ -1,0 +1,10 @@
+<section class="wrapper style5 events-next-section">
+	<div class="inner">
+    <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    <div class="when-where"><time class="icon fa-clock">{{ .Params.Event.When.Format "02.01.2006 15:04" }}</time></span><address>{{ .Params.Event.Where }}</address></div>
+    <p>{{ .Summary }}</p>
+    {{ if .Truncated }}
+    <a href="{{ .Permalink }}">{{ i18n "readmore" }}</a>
+    {{ end }}
+	</div>
+</section>

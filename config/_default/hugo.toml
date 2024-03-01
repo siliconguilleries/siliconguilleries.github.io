@@ -6,13 +6,14 @@ title = 'Silicon Guilleries'
 # Content
 paginate = 10
 builddrafts = false
+enableEmoji = true
 
 # Languages
 defaultContentLanguage = 'ca'
 defaultContentLanguageInSubdir = false
 
 # Menus
-sectionPagesMenu = 'main'
+#sectionPagesMenu = 'main'
 
 # Parameters
 [params]
@@ -20,7 +21,7 @@ body_is_markdown = true
 # copyright = ''
 # startbuttonText = ''
 # startbuttonLink = ''
-# custom_css = 'foo.css'
+custom_css = 'css/siliconguilleries.css'
 
 [params.social]
 github = 'siliconguilleries'

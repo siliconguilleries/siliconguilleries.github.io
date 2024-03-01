@@ -25,6 +25,10 @@ Name = 'Registrat'
 pageRef = '/sign-up-member'
 weight = 100
 [[main]]
+Name = 'Discord'
+url = 'https://discord.gg/gsjVvHnXYd'
+weight = 101
+[[main]]
 Name = 'Codi de conducta'
 pageRef = '/code-conduct'
 weight = 110

@@ -3,23 +3,28 @@ name = 'Inici'
 pageRef = '/'
 weight = 1
 [[main]]
-Name = 'Codi de conducta'
-pageRef = '/code-conduct'
-weight = 5
-[[main]]
-Name = "Organització d'events"
-pageRef = '/organization-events'
+Name = "Esdeveniments"
+pageRef = ''
 weight = 10
 [[main]]
-Name = 'Proposar'
-pageRef = ''
-weight = 15
-[[main]]
-Name = 'Xerrada'
-pageRef = '/talk-proposal'
+Name = 'Próxims'
+pageRef = '/events-next'
 weight = 1
-parent = 'Proposar'
+parent = 'Esdeveniments'
+[[main]]
+Name = 'Organització'
+pageRef = '/organization-events'
+weight = 5
+parent = 'Esdeveniments'
+[[main]]
+Name = 'Proposar Xerrada'
+pageRef = '/talk-proposal'
+weight = 15
 [[main]]
 Name = 'Registrat'
 pageRef = '/sign-up-member'
 weight = 100
+[[main]]
+Name = 'Codi de conducta'
+pageRef = '/code-conduct'
+weight = 110

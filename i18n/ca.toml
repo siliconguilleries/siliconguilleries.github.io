@@ -19,6 +19,9 @@ other = "nom"
 [next-events]
 other = "pròxims esdevniments"
 
+[past-events]
+other = "esdeveniments anteriors"
+
 [phone]
 other = "telèfon"
 

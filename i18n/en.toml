@@ -1,2 +1,5 @@
 [next-events]
 other = "next events"
+
+[past-events]
+other = "past events"

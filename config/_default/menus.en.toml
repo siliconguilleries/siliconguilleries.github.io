@@ -12,6 +12,11 @@ pageRef = '/events-next'
 weight = 1
 parent = 'Events'
 [[main]]
+Name = 'Past'
+pageRef = '/events-past'
+weight = 2
+parent = 'Events'
+[[main]]
 Name = 'Organization'
 pageRef = '/organization-events'
 weight = 5

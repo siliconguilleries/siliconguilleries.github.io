@@ -4,6 +4,7 @@ title = 'Hola Món!!!'
 description = "Primera trobada presencial amb l'objectiu de parlar com entre tots podem fer creixer aquest comunitat tècnica"
 date = 2024-02-28T16:00:00+01:00
 category = 'events'
+aliases = ['/events-next/hello-world']
 
 [params]
 [params.event]

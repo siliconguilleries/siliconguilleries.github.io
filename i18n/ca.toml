@@ -16,6 +16,9 @@ other = "Menú"
 [name]
 other = "nom"
 
+[next-events]
+other = "pròxims esdevniments"
+
 [phone]
 other = "telèfon"
 

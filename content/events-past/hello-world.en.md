@@ -4,6 +4,7 @@ title = 'Hello World!!!'
 description = "First in-person meetup to discuss how we can grow this tech community"
 date = 2024-03-01T16:00:00+01:00
 category = 'events'
+aliases = ['/en/events-next/hello-world']
 
 [params]
 [params.event]

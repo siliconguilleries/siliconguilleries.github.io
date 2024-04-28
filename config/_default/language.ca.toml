@@ -6,7 +6,7 @@ weight = 1
 
 [params]
 fancyTitle = 'Silicon Guilleries'
-description = 'La comunitat tècnica de les Guilleries'
+description = 'La comunitat tècnica de les Guilleries<br/>> <a href="events-next" style="font-weight: bold">Pròxima troba</a> <'
 
 [params.one]
 enable = true

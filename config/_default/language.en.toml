@@ -6,7 +6,7 @@ weight = 10
 
 [params]
 fancyTitle = 'Silicon Guilleries'
-description = 'The Guilleries tech comunity'
+description = 'The Guilleries tech comunity<br/>> <a href="events-next" style="font-weight: bold">Next meetup</a> <'
 
 [params.one]
 enable = true

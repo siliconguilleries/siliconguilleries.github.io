@@ -22,6 +22,13 @@ No estàs segur de quins temes suggerir? Cap problema! Només amb la teva presè
 
 Esperem veure-us allà!
 
+## Quan i on
+
+La trobada serà el 15 de maig a les 19 h (🤖 2024-05-15T19:00:00+02:00) a la [Casa de Cultura de Sant Hilari Sacalm](https://maps.app.goo.gl/9ApT5MCTBNBJPa5AA), primera planta.
+
+Obrirem les portes 15 minuts.
+
+
 ## Registre
 
 :warning: Si us plau abans de registrar-te a l'esdeviniment, [registrat com a membre](/sign-up-member).

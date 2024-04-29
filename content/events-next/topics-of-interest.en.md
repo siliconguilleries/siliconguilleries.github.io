@@ -22,6 +22,12 @@ Not sure what topics to suggest? No problem! Your presence alone adds value to o
 
 Looking forward to seeing you there!
 
+## When and where
+
+We'll meet on 15th of March at 7 PM (🤖 2024-05-15T19:00:00+02:00) at the ["Casa de Cultura de Sant Hilari Sacalm"](https://maps.app.goo.gl/9ApT5MCTBNBJPa5AA), first floor.
+
+We'll open our doors 15 minutes before.
+
 ## Sign up
 
 :warning: Please before sign up to the event, [sign up as a member](/sign-up-member).

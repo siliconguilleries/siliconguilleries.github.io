@@ -4,6 +4,7 @@ title = 'Topics of interest'
 description = 'Second in-person meetup to list the topics that every member of our small community is interested in'
 date = 2024-04-29T10:00:00+02:00
 category = 'events'
+aliases = ['/en/events-next/topics-of-interest']
 
 [params]
 [params.event]

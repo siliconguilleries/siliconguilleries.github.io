@@ -4,6 +4,8 @@ title = "Temes d'interés"
 description ="Segona troba presencial on farem una llista de temes que poden ser d'interès pels membre de la nostra petita comunitat"
 date = 2024-04-29T10:00:00+02:00
 category = 'events'
+aliases = ['/events-next/topics-of-interest']
+
 
 [params]
 [params.event]

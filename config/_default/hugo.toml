@@ -1,4 +1,4 @@
-baseURL = 'https://siliconguilleries.com'
+baseURL = 'https://siliconguilleries.github.io'
 theme = 'spectral'
 copyright = 'This works is license under a Creative Commons Attribution-ShareAlike 4.0 International license'
 title = 'Silicon Guilleries'

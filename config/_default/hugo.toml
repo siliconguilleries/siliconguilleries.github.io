@@ -1,16 +1,19 @@
 baseURL = 'https://siliconguilleries.github.io'
 theme = 'spectral'
-copyright = 'This works is license under a Creative Commons Attribution-ShareAlike 4.0 International license'
+copyright = 'This works is licensed under a Creative Commons Attribution-ShareAlike 4.0 International license'
 title = 'Silicon Guilleries'
 
 # Content
-paginate = 10
 builddrafts = false
 enableEmoji = true
 
 # Languages
 defaultContentLanguage = 'ca'
 defaultContentLanguageInSubdir = false
+
+# Pagination
+[pagination]
+pagerSize = 10
 
 # Menus
 #sectionPagesMenu = 'main'
